@@ -1,0 +1,6 @@
+*.csv
+find
+__pycache__
+*.txt
+*.log
+*.db
